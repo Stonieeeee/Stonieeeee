@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="./assets/L-wave.gif" alt="Death note L waving">
+<img src="./assets/L-wave.gif" alt="Death note L waving" width="700px" height="300px">
 
 ### Hi! 👋 I'm EJ, a computer engineering graduate who aspires to be a full stack web developer.
 
@@ -10,7 +10,7 @@
 
 
 
-### 🧑 About Me  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e5x665bz2uxrezillesymeahka&count=3" width="300px" align="right">
+### 🧑 About Me  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e5x665bz2uxrezillesymeahka&count=4" width="360px" align="right">
 
 
 
@@ -24,7 +24,7 @@
 <br>
 
 
-### 🚀 Technologies <img src="./assets/coding.gif" alt="Coding GIF" width="300px" align="right">
+### 🚀 Technologies <img src="./assets/coding.gif" alt="Coding GIF" width="360px" align="right">
 
 <details open>
 <summary><b>Frontend 🖌️</b></summary>
