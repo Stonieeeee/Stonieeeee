@@ -14,28 +14,36 @@
 
 
 
-- **🔭 I'm currently building my portfolio.**
+- **🔭 I'm currently building my portfolio**
   
-- **🌱 I'm learning TailwindCSS  and Node.js.**
+- **🌱 I'm learning TailwindCSS  and Node.js**
 
-- **🌏 I lived in the Philippines.**
+- **🌏 I lived in the Philippines**
 
+- **📫 You can reach me at: [Gmail](ejparducho1210@gmail.com)**
+
+- **🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/Stonieeeee)**
+  
 <br>
 <br>
+<br>
+<br>
+<br>
 
+<hr>
 
 ### 🚀 Technologies <img src="./assets/coding.gif" alt="Coding GIF" width="360px" align="right">
 
-<details open>
+<details close>
 <summary><b>Frontend 🖌️</b></summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 
 </details>
 
-<details open>
+<details close>
 <summary><b>Backend ⚙️</b></summary> 
 <br>
 
@@ -43,7 +51,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd343)&nbsp;
 </details>
 
-<details open>
+<details close>
 <summary><b>Learning 🌱</b></summary>
 <br>
 
@@ -52,7 +60,7 @@
 
 </details>
 
-<details open>
+<details close>
 <summary><b>Database 🗄️</b></summary>
 <br>
 
@@ -60,27 +68,27 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFA611)&nbsp;
 </details>
 
-<details open>
+<details close>
 <summary><b>Electronics ⚡</b></summary>
 <br>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)&nbsp;
 
 </details>
 
-<details open>
+<details close>
 <summary><b>Software and Tools 💻</b></summary>
 <br>
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=072F5F)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=072F5F)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)<br>
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)<br>
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=072F5F)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=072F5F)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=072F5F)
 
 </details>
