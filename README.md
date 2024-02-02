@@ -20,7 +20,7 @@
 
 - **🌏 I lived in the Philippines**
 
-- **📫 You can reach me at: [Gmail](ejparducho1210@gmail.com)**
+- **📫 You can reach me at: <a href="mailto:ejparducho1210@gmail.comsubject=Good Day EJ!">Gmail</a>**
 
 - **🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/Stonieeeee)**
   
