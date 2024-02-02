@@ -10,7 +10,7 @@
 
 
 
-### 🧑 About Me  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e5x665bz2uxrezillesymeahka&count=3" width="480px" align="right">
+### 🧑 About Me  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e5x665bz2uxrezillesymeahka&count=3" width="300px" align="right">
 
 
 
@@ -20,8 +20,11 @@
 
 - **🌏 I lived in the Philippines.**
 
+<br>
+<br>
 
-### 🚀 Technologies 
+
+### 🚀 Technologies <img src="./assets/coding.gif" alt="Coding GIF" width="300px" align="right">
 
 <details open>
 <summary><b>Frontend 🖌️</b></summary>
@@ -33,7 +36,7 @@
 </details>
 
 <details open>
-<summary><b>Backend ⚙️</b></summary> <img src="./assets/coding.gif" alt="Coding GIF" align="right">
+<summary><b>Backend ⚙️</b></summary> 
 <br>
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
